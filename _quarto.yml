@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "LET'S GET BUILT"
+  navbar:
+    search: false
+    left:
+      - href: push_day.qmd
+        text: Push Day
+      - href: pull_day.qmd
+        text: Pull Day
+      - href: leg_day.qmd
+        text: Leg Day  
+
+format:
+  html:
+    theme: cosmo
+    page-layout: full

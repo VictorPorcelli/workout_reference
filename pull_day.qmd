@@ -1,0 +1,28 @@
+---
+title: Pull Day
+---
+
+**GOAL:** Moderate (8-12 reps) to low (15-20 reps) weight. Reach failure, then **grind** (essentially slow down) while **maintaining form.**
+
+::: panel-tabset
+## Back
+
+| Machine          | Cable                                       | DB           |
+|------------------|---------------------------------------------|--------------|
+| Row              | Upright row                                 | Row          |
+| **Lat pulldown** | Row                                         | Shrugs       |
+| Reverse fly      | **Alternating high row (pull angled down)** | Reverse fly  |
+|                  |                                             | **Deadlift** |
+
+\+ **wide grip** **pull-ups**
+
+## Bi
+
+| Machine | Cable | DB                                 |
+|---------|-------|------------------------------------|
+| Curl    | Curl  | Wide curl                          |
+|         |       | Preacher curl                      |
+|         |       | **Hammer curl** (optional incline) |
+:::
+
+**NOTE:** *It's OK to use momentum on final reps to push yourself.*

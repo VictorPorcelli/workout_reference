@@ -1,0 +1,41 @@
+---
+title: Push Day
+---
+
+**GOAL:** Moderate (8-12 reps) to low (15-20 reps) weight. Reach failure, then **grind** (essentially slow down) while **maintaining form.**
+
+::: panel-tabset
+## Chest
+
+| Machine             | Cable                                  | DB                   |
+|---------------------|----------------------------------------|----------------------|
+| **Chest press**     | Pec fly (over, under, centered)        | Chest press          |
+| Incline chest press | Chest press (shoulder-width, push out) | Incline chest press  |
+| **Pec fly**         |                                        | Pec fly              |
+|                     |                                        | **Around the world** |
+
+\+ **push-ups** (chest focus = wide arm position)
+
+## Tri
+
+| Machine          | Cable               | DB                 |
+|------------------|---------------------|--------------------|
+| Tricep pushdown  | **Tricep pulldown** | Tricep hammer curl |
+| Tricep extension | Tricep extension    | **Skull crushers** |
+|                  |                     |                    |
+
+\+ push-ups (tri focus = arms shoulder-width apart)
+
+\+ **dips**
+
+## Shoulder
+
+| Machine            | Cable             | DB                             |
+|--------------------|-------------------|--------------------------------|
+| **Shoulder press** | Shoulder press    | Shoulder press                 |
+|                    | **Lateral flies** | Lateral flies (light or heavy) |
+|                    |                   | **Front raise**                |
+|                    |                   |                                |
+|                    |                   |                                |
+|                    |                   |                                |
+:::
